@@ -1,3 +1,9 @@
+# Access the Live Dashboard
+
+**Live URL:** [https://sanky.space/](https://sanky.space/)
+
+---
+
 # SANKALP
 
 ### Intelligent Governance & Adaptive Logistics Ecosystem
