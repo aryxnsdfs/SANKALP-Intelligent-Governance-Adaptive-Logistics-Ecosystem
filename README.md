@@ -1,8 +1,4 @@
-# Access the Live Dashboard
 
-**Live URL:** [https://sanky.space/](https://sanky.space/)
-
----
 
 # SANKALP
 
